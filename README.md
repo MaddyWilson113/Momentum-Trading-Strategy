@@ -49,7 +49,7 @@ Historical equity data was sourced using Yahoo Finance APIs through the `yfinanc
 - Implement more advanced backtesting frameworks
 
 ## Author
-**Author:** Madalyn Wilson
-University of Arizona, Political Sceince and Economics
-Quantitative Finance Club
+**Author:** Madalyn Wilson  
+University of Arizona, Political Sceince and Economics  
+Quantitative Finance Club  
 LinkedIn: www.linkedin.com/in/madalyn-wilson113
